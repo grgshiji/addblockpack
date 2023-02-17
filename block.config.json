@@ -1,0 +1,8 @@
+{
+  "name": "addblockpack",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/grgshiji/addblockpack",
+    "ssh": "git@github.com:grgshiji/addblockpack.git"
+  }
+}
